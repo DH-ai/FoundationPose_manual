@@ -3,8 +3,8 @@ import numpy as np
 import os
 
 # ✅ Input image path
-image_path = "your_image_path.png"
-mask_save_path = "your_mask_save_path.png"
+image_path = "rgb/19481.691000.png"
+mask_save_path = "masks1/19481.691000.png"
 
 # ✅ Load image
 image = cv2.imread(image_path)
